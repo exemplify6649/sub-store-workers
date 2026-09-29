@@ -1,3 +1,11 @@
+fork以后setting内设置
+<img width="1918" height="1138" alt="image" src="https://github.com/user-attachments/assets/a066394e-d78f-4169-aafd-bb4df7d2ebd3" />
+
+SUB_STORE_FRONTEND_BACKEND_PATH：
+<img width="1554" height="555" alt="image" src="https://github.com/user-attachments/assets/1500fe67-e84a-4310-a0fe-7e9f59c43912" />
+
+
+
 <div align="center">
 <br>
 <img width="200" src="https://raw.githubusercontent.com/Yu9191/sub-store-workers/main/png/cloudflare4.png" alt="Sub-Store Workers">
